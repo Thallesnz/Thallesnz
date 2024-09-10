@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thallesnz
 
 - Sobre mim
-- 👀 Estudando mais Back-End e Front-End
+- <img src="https://img.shields.io/badge/-Blazor-4B088A?style=flat-square&logo=blazor" height="25"/> Estudando mais Back-End e Front-End
 
   
