@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Thallesnz
 
 - Sobre mim
-- 🔭 Estudando mais Back-End e Front-End
+- Cursando ADS - Análise e desenvolvimento  de sistemas em - 
+- 🔭 Estudando mais sobre Back-End e Front-End.
 
+- Aplicações
+- <img src="https://img.shields.io/badge/-JAVA-CB3837?style=flat-square&logo=java&logoColor=white" height="25"/>
   
