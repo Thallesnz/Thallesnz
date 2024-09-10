@@ -4,8 +4,6 @@
 - 🎓 Cursando ADS - Análise e desenvolvimento de sistemas na  
 - 🔭 Estudando mais sobre Back-End e Front-End.
 
-<br>Aplicações
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+- Aplicações
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   
