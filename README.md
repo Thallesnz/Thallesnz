@@ -5,4 +5,6 @@
 - 🔭 Estudando mais sobre Back-End e Front-End.
 
 - Aplicações
-<img src="(https://i.imgur.com/slslVDc.png)-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
+![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![HTML5](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
