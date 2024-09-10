@@ -6,7 +6,7 @@
 
 <p align="center">
   
- <img src="https://img.shields.io/badge/-JAVA-333333?style=flat-square&logo=java&logoColor=white" height="20"/>
+ <img src="https://img.shields.io/badge/-JAVA-333333?style=flat-square&logo=java&logoColor=white" height="22" border-radius: "10px"/>
 
  
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
