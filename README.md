@@ -4,11 +4,7 @@
 - 🎓 Cursando ADS - Análise e desenvolvimento de sistemas na  
 - 🔭 Estudando mais sobre Back-End e Front-End.
 
-<p align="center">
-  
- <img src="https://img.shields.io/badge/-JAVA-333333?style=flat-square&logo=java&logoColor=white" height="22" border-radius="25px"/>
-
- 
+**Aplicações e Dados** 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Html5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
