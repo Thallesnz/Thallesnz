@@ -5,5 +5,4 @@
 - 🔭 Estudando mais sobre Back-End e Front-End.
 
 - Aplicações
-<img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=cian"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=cian"> <img src="https://img.shields.io/badge/Adobe-323330?style=for-the-badge&logo=AdobeXD&logoColor=white">
-  
+<img src="https://i.imgur.com/slslVDc.png-323330?style=for-the-badge&logo=python&logoColor=cian">
