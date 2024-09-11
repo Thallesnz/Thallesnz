@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thallesnz
 
 - Sobre mim
-- 🎓 Cursando ADS - Análise e desenvolvimento de sistemas na  
+- 🎓 Cursando ADS - Análise e desenvolvimento de sistemas na <a href="https://estacio.br/">Estacio</a>
 - 🔭 Estudando mais sobre Back-End e Front-End.
 
 <div align="center">
