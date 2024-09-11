@@ -6,6 +6,10 @@
 - 🔭 Estudando mais sobre Back-End e Front-End.
 <br/>
 
+<p>Aplicativos de desenvolvimento<br/>
+<img src="https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-333333?style=flat-square&logo=visual-studio-code&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=white" height="25"/>
+  
 <p>Minhas aplicações<br/>
 <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C%2B%2B&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=white" height="25"/>
