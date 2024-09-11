@@ -6,8 +6,7 @@
 - 🔭 Estudando mais sobre Back-End e Front-End.
 <br/>
 
-<div align="center">
-**Aplicações e Dados**<br>
+- Minhas aplicações
 <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C%2B%2B&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=white" height="25"/>
