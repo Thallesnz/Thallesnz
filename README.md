@@ -5,9 +5,9 @@
 - 🔭 Estudando mais sobre Back-End e Front-End.
 
 **Aplicações e Dados**<br>
-<img src="https://img.shields.io/badge/-JAVA-333333?style=flat-square&logo=java&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=C%2B%2B&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/-Java&nbsp;Script-333333?style=flat-square&logo=HTML5&logoColor=white" height="22"/>
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5&logoColor=white" height="22"/>
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
