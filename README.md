@@ -7,7 +7,7 @@
 <br/>
 
 <p>Aplicativos de desenvolvimento<br/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-flat&logo=vs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-flat&logo=vscode&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=white" height="25"/>
   
 <p>Minhas aplicações<br/>
