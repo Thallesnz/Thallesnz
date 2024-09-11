@@ -13,4 +13,3 @@
 <img src="https://img.shields.io/badge/-Java&nbsp;Script-333333?style=flat-square&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php&logoColor=white" height="25"/>
-</div>
