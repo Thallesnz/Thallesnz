@@ -3,7 +3,6 @@
 - Sobre mim
 - 🎓 Cursando ADS - Análise e desenvolvimento de sistemas na <a href="https://estacio.br/">Estacio</a>
 - 🔭 Estudando mais sobre Back-End e Front-End.
-</br>
 
 <div align="center">
 **Aplicações e Dados**<br>
