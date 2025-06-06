@@ -2,8 +2,8 @@
 <h4>» 📲 Um pouco sobre mim</h4>
 <div>
 - 📒 Desenvolvedor Backend<br>
-- 📈 Estudando para FrontEnd
-- 🎓 Cursando: Análise e Desenvolvimento de Sistemas <br>
+- 📈 Estudando para FrontEnd<br>
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas<br>
 - 📖 Estudando Igiomas: Inglês<br>
 - 🕶️ Sempre buscando melhorar e nunca desistir.<br>
 </div>
