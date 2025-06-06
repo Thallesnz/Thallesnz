@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Thallesnz
+- 👋 Hi, I’m Thalles
 <br/>
 
 - Sobre mim
 - 🎓 Cursando ADS - Análise e desenvolvimento de sistemas na <a href="https://estacio.br/">Estacio</a>
+- 🎓 Estudando inglês
 - 🔭 Estudando mais sobre Back-End e Front-End.
+- 
 <br/>
 
 <p>Aplicativos de desenvolvimento<br/>
@@ -17,4 +19,5 @@
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat-flat&logo=CSS3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-flat&logo=php&logoColor=white" height="25"/>
 
+<h4 align="left">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
