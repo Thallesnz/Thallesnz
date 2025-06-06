@@ -17,10 +17,11 @@
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat-flat&logo=CSS3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-flat&logo=php&logoColor=white" height="25"/>
 
-type Bio map[string]string
+<h2 align="center">My stack :man_technologist:</h2>
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</p>
