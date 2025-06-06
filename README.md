@@ -18,3 +18,4 @@
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-flat&logo=php&logoColor=white" height="25"/>
 
 <h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
