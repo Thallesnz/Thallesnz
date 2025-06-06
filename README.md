@@ -1,12 +1,14 @@
-- Olá, meu nome é Thalles de Souza.
-Seja muito bem vindo.
+<h3>» Olá, meu nome é Thalles de Souza, seja bem vindo.</h4>
+<h4>» 📲 Um pouco sobre mim</h4>
+<div>
+- 📒 Desenvolvedor Backend<br>
+- 📈 Estudando para FrontEnd
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas <br>
+- 📖 Estudando Igiomas: Inglês<br>
+- 🕶️ Sempre buscando melhorar e nunca desistir.<br>
+</div>
 
- Um pouco sobre mim
-- 🎓 Cursando análise e desenvolvimento de sistemas.
-- 📈 Estudando inglês.
-- 🕶️ Sempre buscando melhorar e nunca desistir.
-
-<br><br><br>
+<br><br>
 <h4>🚀 Programas usados para desenvolvimento</h4>
 <div>
   <a href = ""><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a>
