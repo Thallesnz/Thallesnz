@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat-flat&logo=CSS3&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/-PHP-333333?style=flat-flat&logo=php&logoColor=white" height="25"/>
 
-<h2 align="center">My stack :man_technologist:</h2>
+<h2 align="left">My stack :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
